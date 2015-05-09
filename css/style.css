@@ -106,7 +106,7 @@
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
 		/*background: #348cb2 url("images/bg.jpg") bottom left;*/
-		background: #ceb270 url("images/bg1.jpg") bottom left;
+		background: #8ac7a6 url("images/bg1.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -385,6 +385,16 @@
 				#header nav a span {
 					display: none;
 				}
+
+	/*Logo*/
+	.circular {
+		width: 150px;
+		height: 150px;
+		border: 6px solid #ffffff;
+		border-radius: 75px;
+		-webkit-border-radius: 75px;
+		-moz-border-radius: 75px;
+	}
 
 /* Footer */
 
