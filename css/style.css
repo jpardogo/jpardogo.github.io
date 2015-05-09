@@ -388,12 +388,12 @@
 
 	/*Logo*/
 	.circular {
-		width: 150px;
-		height: 150px;
+		width: 200px;
+		height: 200px;
 		border: 6px solid #ffffff;
-		border-radius: 75px;
-		-webkit-border-radius: 75px;
-		-moz-border-radius: 75px;
+		border-radius: 100px;
+		-webkit-border-radius: 100px;
+		-moz-border-radius: 100px;
 	}
 
 /* Footer */
